@@ -1,4 +1,4 @@
-# shift-order-service-quarkus project
+# order-service-quarkus project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
